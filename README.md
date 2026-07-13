@@ -33,7 +33,7 @@ Hi 👋, I'm Parshvanath Patil
 # 💫 About Me
 
 ```yaml
-Name: YOUR NAME
+Name: Parshvanath Patil
 
 Location: India 🇮🇳
 
@@ -60,10 +60,10 @@ Looking For:
   Internship Opportunities
 
 Portfolio:
-  https://yourportfolio.com
+  https://patilparshvanath.com
 
 Email:
-  your@email.com
+  patilparshwa675@email.com
 ```
 
 ---
@@ -282,23 +282,23 @@ src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algo
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/parshwa12367556">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="https://linkedin.com/in/www.linkedin.com/in/parshvanath-patil-4919ba323">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://twitter.com/YOUR_USERNAME">
+<a href="https://twitter.com/@patilparshwa">
 <img src="https://skillicons.dev/icons?i=twitter"/>
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:patilparshwa675@email.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://yourportfolio.com">
+<a href="https://patilparshwa.com">
 <img src="https://skillicons.dev/icons?i=devto"/>
 </a>
 
