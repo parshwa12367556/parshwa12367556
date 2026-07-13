@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">
-Hi 👋, I'm YOUR NAME
+Hi 👋, I'm Parshvanath Patil
 </h1>
 
 <h3 align="center">
@@ -20,11 +20,11 @@ Hi 👋, I'm YOUR NAME
 <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/parshwa12367556">
 <img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=parshwa12367556&style=for-the-badge"/>
 
 </p>
 
