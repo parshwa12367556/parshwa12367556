@@ -359,6 +359,11 @@ src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algo
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parshwa12367556&" alt="parshwa12367556" /></p>
 
 **parshwa12367556/parshwa12367556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" alt="GitHub Banner" width="100%"/>
+</picture>
 
 Here are some ideas to get you started:
 
