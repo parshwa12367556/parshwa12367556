@@ -328,7 +328,7 @@ src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algo
 
 <p align="center">
 
-⭐ From <b>YOUR NAME</b>
+⭐ From <b>Parshvanath Patil</b>
 
 </p>
 <!--<h1 align="center">Hi 👋, I'm Parshvanath Patil</h1>
